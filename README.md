@@ -17,14 +17,14 @@ BlockchainSimulator is a basic implementation of a blockchain in Java. It demons
 - Gson library (gson-2.2.2.jar)
 
 # Project Structure
-noobchain/
-├── noobchain/
-│   ├── Block.java
-│   ├── NoobChain.java
-│   ├── StringUtil.java
-├── gson-2.2.2.jar
-├── bcprov-jdk15to18-1.78.1.jar
-└── README.md
+      noobchain/
+      ├── noobchain/
+      │   ├── Block.java
+      │   ├── NoobChain.java
+      │   ├── StringUtil.java
+      ├── gson-2.2.2.jar
+      ├── bcprov-jdk15to18-1.78.1.jar
+      └── README.md
 
 
 # Getting Started
